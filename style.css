@@ -1,0 +1,90 @@
+*{
+	margin:0;
+	padding:0;
+		
+}
+.page-container{
+	background: linear-gradient(#98FB98,white);
+	margin:0px 100px;
+	
+}
+.header{
+	backgruond-color:#73f873;
+} 
+.header h1{
+	font-family: bedrock;
+	font-size: 40px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom:0px;
+	color: green;
+	text-shadow: 1px 1px #000000;
+}
+.header h5{
+	margin:0;
+	padding-left:20px;
+	color: chocolate;
+	padding-bottom:20px;
+}
+.log-reg{
+	font-family: bedrock;
+	padding-bottom: 25px;
+}
+.log-reg a{
+	color:#0a0a0a;
+	text-decoration: none;
+font-size: 17px;
+padding-left: 20px;
+}
+#login{
+	background-color: rgb(172, 230, 38);
+	font-size: 25px;
+	margin-left:1250px;
+}
+#login:hover{
+	color: #e9130c;
+}
+.main-nav ul{
+	background: olivedrab;
+	list-style: none;
+	padding-left:0;
+	
+}
+.main-nav ul li{
+	display: inline-block;
+	padding: 8px;	
+}
+.main-nav ul li a{
+	font-family: bedrock;
+	text-decoration:none;
+	fonr-size: 22px;
+	color: white;
+}
+.main-nav ul li a:hover{
+	background-color: #64005c;
+	transform: scale(1.5);
+
+}
+.content h1{
+	font-family: bedrock;
+	color: #D2691E;
+	font-size: 26px;
+}
+.footer{
+	background-color: #8FBC8F;
+	padding: 10px 10px;
+	text-align: center;
+	font-size: ariel;
+	text-decoration: none;
+	color: #0c0c0c;
+}
+.footer a{
+	color: #062711;
+	text-decoration:none;
+}
+.footer a:hover{
+	color: #e8f0e9;
+}
+img:hover{
+	transform: scale(1.5);
+}
